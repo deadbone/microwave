@@ -14,9 +14,16 @@
             <h3>
                 {{ feature.title }}
             </h3>
+            {% if feature.image_before%}
+            <p><img class="playStore" src="assets/{{feature.image_before}}"></p>
+            {% endif %}
             <p>
                 {{ feature.description }}
             </p>
+            {% if feature.image_after%}
+            <p><img class="playStore" src="assets/{{feature.image_after}}"></p>
+            
+            {% endif %}
         </div>
     </div>
     {% endif %}
