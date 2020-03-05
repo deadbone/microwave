@@ -4,19 +4,17 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
+**Dernière mise à jour**  
+January 19 2019
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
-
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
-
+# POLITIQUE DE CONFIDENTIALITÉ
+Je suis très attaché au respect de la vie privée et mes applications elles-mêmes ne partagent pas d'informations personnelles avec des tiers et ne stockent pas d'informations vous concernant.
 <br>
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+## <center>*</center>
+Certaines de mes applications utilisent la publicité de Google AdMob comme monétisation. Google AdMob assure l'intégration des publicités et définit des cookies. Les cookies sont de petits fichiers texte stockés sur votre terminal afin d'analyser l'utilisation de l'application. Google AdMob utilise également des balises Web. Les balises Web sont des graphiques invisibles qui permettent d'analyser le trafic des visiteurs sur nos applications.
 
+<br>
 ### 1.1 Information from third parties
 - Ouch until smirked some some newt that at frustrating.
 - Nimbly handsomely fabulously python.
