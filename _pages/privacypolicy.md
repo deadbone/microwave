@@ -20,7 +20,7 @@ Les informations générées par les cookies et les balises Web sont transmises 
 
 Lien vers la politique de confidentialité des fournisseurs de services tiers :
 
-<a href="https://support.google.com/admob/answer/6128543?hl=fr#">AdMob></a>
+<a href="https://support.google.com/admob/answer/6128543?hl=fr#">AdMob</a>
 
 <br>
 
