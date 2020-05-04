@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Dernière mise à jour**  
-19 Janvier 2019
+04 Mai 2020
 
 # POLITIQUE DE CONFIDENTIALITÉ
 Je suis très attaché au respect de la vie privée et mes applications elles-mêmes ne partagent pas d'informations personnelles avec des tiers et ne stockent pas d'informations vous concernant.
@@ -20,13 +20,12 @@ Les informations générées par les cookies et les balises Web sont transmises 
 
 Lien vers la politique de confidentialité des fournisseurs de services tiers :
 
-AdMob
-
+<a href="https://support.google.com/admob/answer/6128543?hl=fr#">AdMob></a>
 
 <br>
 
 ## <center>*</center>
-Cette politique de confidentialité est sujette à modification sans préavis et a été mise à jour pour la dernière fois le 19 Janvier 2019.
+Cette politique de confidentialité est sujette à modification sans préavis et a été mise à jour pour la dernière fois le 05 Mai 2020.
 <br>
 
 ## <center>*</center>
